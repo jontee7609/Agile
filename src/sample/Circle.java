@@ -7,7 +7,7 @@ public class Circle {
   public Circle() {
     radius = 1.0;
   }
-
+//practical changes
   public Circle(double radius) {
     setRadius(radius);
   }
