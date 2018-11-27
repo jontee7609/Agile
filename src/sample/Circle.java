@@ -11,7 +11,7 @@ public class Circle {
   public Circle(double radius) {
     setRadius(radius);
   }
-
+//test
   public double getRadius() {
     return radius;
   }
